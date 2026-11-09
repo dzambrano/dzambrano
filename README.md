@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @dzambrano
-- 👀 I’m interested in DeepLearning, Computer Vision, Reinforcement Learing, Spiking Neural Networks!
-- 🌱 I work in the sports analytics field using Computer Vision and Deep Learning!
-- 🏅 I organize Computer Vision Challenges for multi-sports analytics to engage the community into sport data! Checkout our repos, deadlines, ruls and prizes!
+### Hi, I'm Davide 👋
 
-<!---
-dzambrano/dzambrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Engineering Manager in **Computer Vision for sports**, based in Lausanne, Switzerland.
+I lead ML teams while staying hands-on, taking models from research to production.
+
+- 🎓 PhD in Biorobotics, with postdocs at EPFL, CWI Amsterdam and Scuola Superiore Sant'Anna
+- 🧠 Research background: efficient deep learning and Spiking Neural Networks
+- 🏀 Focus areas: basketball and multi-sport analytics, including player tracking, trajectory prediction and jersey number recognition
+- 🏅 At Sportradar, I led an ML team building CV systems for sports broadcasting and co-organized the
+  **DeepSportradar** Computer Vision challenges for multi-sport analytics. The tasks and datasets are still available in the [repos](https://github.com/DeepSportradar).
+
+📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
