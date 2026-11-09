@@ -7,6 +7,7 @@ I lead ML teams while staying hands-on, taking models from research to productio
 - 🧠 Research background: efficient deep learning and Spiking Neural Networks
 - 🏀 Focus areas: basketball and multi-sport analytics, including player tracking, trajectory prediction and jersey number recognition
 - 🏅 At Sportradar, I led an ML team building CV systems for sports broadcasting and co-organized the
-  **DeepSportradar** Computer Vision challenges for multi-sport analytics. The tasks and datasets are still available in the [repos](https://github.com/DeepSportradar).
+  **DeepSportradar** Computer Vision challenges ([repos](https://github.com/DeepSportradar)). I also contributed the
+  player re-identification track to the [VIPriors](https://github.com/VIPriors/vipriors-challenges-toolkit) workshop challenges.
 
 📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
