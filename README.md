@@ -10,4 +10,4 @@ I lead ML teams while staying hands-on, taking models from research to productio
   **DeepSportradar** Computer Vision challenges ([repos](https://github.com/DeepSportradar)). I also contributed the
   player re-identification track to the [VIPriors](https://github.com/VIPriors/vipriors-challenges-toolkit) workshop challenges.
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
+📫 [LinkedIn](https://www.linkedin.com/in/davide-zambrano/) · [Google Scholar](https://scholar.google.it/citations?user=WVWngZYAAAAJ&hl=en)
